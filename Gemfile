@@ -26,6 +26,7 @@ gem 'bootsnap', '>= 1.4.4', require: false
 # gem 'rack-cors'
 
 group :development, :test do
+  gem 'pry'
 end
 
 group :development do
